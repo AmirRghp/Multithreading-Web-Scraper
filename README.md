@@ -46,7 +46,7 @@ This project is a Simple Python-based web scraper that demonstrates the use of o
 
 2. Run the script:
    ```bash
-   python scraper.py
+   python main.py
    ```
 
 3. The scraped HTML files will be saved in the specified output folder.
