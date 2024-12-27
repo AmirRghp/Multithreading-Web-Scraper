@@ -27,12 +27,12 @@ This project is a Simple Python-based web scraper that demonstrates the use of o
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AmirRghp/multithreading-web-scraper.git
+   git clone https://github.com/AmirRghp/Multithreading-Web-Scraper.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd multithreading-web-scraper
+   cd Multithreading-Web-Scraper
    ```
 
 3. Install the required dependencies:
