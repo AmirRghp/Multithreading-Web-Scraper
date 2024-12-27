@@ -60,7 +60,6 @@ This project is a Simple Python-based web scraper that demonstrates the use of o
 ## Notes
 
 - Ensure you have appropriate permissions to scrape the website's content.
-- Be mindful of the website's `robots.txt` and terms of service.
 
 ## License
 
